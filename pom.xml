@@ -77,7 +77,4 @@
 			</plugin>
 		</plugins>
 	</build>
-	<modules>
-		<module>../movie-info-service-io</module>
-	</modules>
 </project>
